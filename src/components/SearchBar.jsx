@@ -27,7 +27,7 @@
 
     return (
       <div className="input-wrapper">
-        <i class="fa-solid fa-magnifying-glass" id="search-icon"></i>
+        <i className="fa-solid fa-magnifying-glass" id="search-icon"></i>
         <input
           type="text"
           name=""
